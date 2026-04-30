@@ -1,5 +1,6 @@
 /**
  * dashboard.js v2 — Charts using CHART_DATA object (no PHP-in-heredoc bug)
+ document
  */
 'use strict';
 
